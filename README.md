@@ -11,7 +11,7 @@ First copy the addon folder inside your Godot project
 Then to activate the plugin open "Project Settings>Plugins" and change from "Inactive" to "Active" on the TileMapPathFinder entry
 Go to your 2d scene and "add child node>TileMapPathFinder" (it should be below Node)
 
-# [Demo/Tutorial](http://www.isageek.com.br/TileMapFinder/)
+# [Demo/Tutorial](http://www.isageek.com.br/TileMapPathFinder/)
 
 # License
 
