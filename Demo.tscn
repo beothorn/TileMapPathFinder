@@ -49,5 +49,4 @@ base_tile_map = NodePath("../TileMap")
 
 [node name="Player" type="AnimatedSprite" parent="."]
 frames = SubResource( 2 )
-animation = "New Anim"
 centered = false
